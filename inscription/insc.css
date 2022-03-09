@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap%27');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+
+}
+strong{
+    color: #FDBBB4;
+   
+}
+#logo{
+    height: 70px;
+    width: 70px ;
+    }
+h1{
+        padding-left: 60px;
+        margin-top: 40px;
+        font-size: 45px;
+        
+        
+    }
+h3{
+        padding-left: 60px;
+    }
+    form{
+        padding-left: 60px;
+        margin-top: 35px;
+    }
+    #email{
+        padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 315px;
+
+        
+    }
+    #nom{
+       padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 155px;
+        margin-top: 10px;
+    }
+    #prenom{
+        padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 155px;
+        margin-top: 10px;
+    }
+    #adr{
+        padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 315px;
+        margin-top: 10px;
+    }
+    #num{
+        padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 315px;
+        margin-top: 10px;
+    }
+    #mdp{
+        padding-left: 10px;
+        border-radius: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: black;
+        border: solid 1,2px;
+        width: 315px;
+        margin-top: 10px;
+    }
+
+
+    #svn{
+        margin: 15px;
+        margin-left: 3px;
+    
+    }
+
+
+    button{
+        font-size: 15px;
+        background-color: black;
+        border-radius: 4px;
+        padding-left: 90px;
+        padding-right: 90px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: white;
+        border-color: black;
+        }
+#image{
+    width: 102%;
+    height: 720px;
+}
+#rightmain{
+    width: 40%;
+    background-image: url("image1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+#leftmain{
+width: 60%;
+}
+.textimg{
+font-family: 'Italianno', cursive;
+padding-top: 550px;
+padding-left:150px;
+font-size: 200px;
+color: white;
+font-size: 30px;
+}
+hr{
+    margin-left: 100px;
+    margin-top: -5px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+}
